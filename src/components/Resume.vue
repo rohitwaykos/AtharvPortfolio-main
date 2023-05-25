@@ -76,8 +76,8 @@
               <td></td>
               <td>
                 <p class="edu-duration">2017-2019</p>
-                <p class="edu-degree">Jawahar Navoday Vidyalay</p>
-                <p class="edu-university">CBSE Board</p>
+                <p class="edu-degree">SBES College of Science</p>
+                <p class="edu-university">State Board</p>
                 <p class="edu-desc">HSC</p>
               </td>
             </tr>
@@ -90,8 +90,8 @@
               <td></td>
               <td>
                 <p class="edu-duration">March 2017</p>
-                <p class="edu-degree">Jawahar Navoday Vidyalay</p>
-                <p class="edu-university">CBSE Board</p>
+                <p class="edu-degree">Pioneers Secondary School</p>
+                <p class="edu-university">State Board</p>
                 <p class="edu-desc">SSC</p>
               </td>
             </tr>
@@ -255,33 +255,25 @@ export default {
       experiences: [
         {
           name: "Creestaa Elevators India pvt ltd",
-          designation: "Quality Enginner",
+          designation: "Design Intern",
           duration: "June 2022 - July 2022",
           description1: "Internship",
           description:
-            "Worked on Various Services of Quality management such has Solid works , Catia , Inspection , etc",
-          skills: ["Testing", "Solidworks"],
+            "During an internship, I learned about 2D design, drafting, development on AutoCAD and 3D modeling on Solidworks in accordance with sheet metal industry. Learned about different machining processes on sheet metals.",
+          skills: ["Design","3D Modeling","3D Printing","Solidworks","Autocad"],
           icon: "https://media.glassdoor.com/sql/2321380/celebal-technologies-squarelogo-1588749669479.png",
         },
       ],
       skills: [
        
         {
-          name: "Python",
-          icon: require("../assets/python.png"),
+          name: "Ansys",
+          icon: require("../assets/proimg/ANSYS_logo.png"),
         },
-  
-        {
-          name: "MySQL",
-          icon: require("../assets/mysql.png"),
-        },
-        {
-          name: "Bootstrap",
-          icon: require("../assets/bootstrap.png"),
-        },
+
         {
           name: "Autodesk",
-          icon: require("../assets/proimg/autodesk.png"),
+          icon: require("../assets/proimg/auto.jpg"),
         },
         {
           name: "Autocad",
@@ -295,18 +287,30 @@ export default {
           name: "Catia",
           icon: require("../assets/proimg/catia.png"),
         },
+
         {
           name: "Soliodworks",
           icon: require("../assets/proimg/solidworks.png"),
         },
+        
+        {
+          name: "Python",
+          icon: require("../assets/python.png"),
+        },
+  
+        {
+          name: "MySQL",
+          icon: require("../assets/mysql.png"),
+        },
+  
       ],
       achievements: [
         {
-          name: "Ansys Cometetion Finalist, 2022",
+          name: "Academic Excellence Award",
           duration: "June 2022 - Aug 2022",
           description:
-            "Winner of National Level Ansys Competetiton Rank 2.",
-          rank: "Finalist",
+            "Second runner up for academic year 2021-22",
+          rank: "Third Rank",
           icon: "https://cdn-icons-png.flaticon.com/512/3135/3135728.png",
         },
       ],

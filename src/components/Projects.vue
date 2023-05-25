@@ -32,7 +32,7 @@ export default {
         {
           title: "Performance analysis of evaporator for direct expansion solar assisted heat pump.",
           description:
-            "To compare the coeficent of performance of system for 3 modes of opteration solar mode,Air source mode,solar-air source mode..",
+            "To compare the coeficent of performance of direct expansion solar assisted heat pump system for 3 modes of operation solar mode, air source mode, solar-air source mode..",
           icon: require("../assets/proimg/heatpump.png"),
           skills: [
             "3D Design",
